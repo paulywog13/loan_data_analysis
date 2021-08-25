@@ -7,3 +7,5 @@ Data file used for this project is the loan_data.csv.
 
 Dependencies used: Pandas, Seaborn, Matplotlib, Scipy.stats, and Numpy
 
+I first used Jupyter Notebook to read in the csv file and then updated the column names and cleaned the data so it would be more simple to analyze. I didn't know what types of loans LendingCLub specialized in so the first graph I completed was an inventory of the Loan Types which showed that nearly a third of the loans in the file were debt consolidation loans. 
+
